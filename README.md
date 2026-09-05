@@ -16,8 +16,7 @@
 
 ---
 
-🌐 **Website:** [benzjeremy.github.io](https://benzjeremy.github.io/)  
-📖 **Persona, Standards & Deep Dives:** [benzjeremy.github.io/details](https://benzjeremy.github.io/details)
+🌐 **Website & Details:** [benzjeremy.github.io](https://benzjeremy.github.io/)
 
 ---
 
