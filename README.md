@@ -7,11 +7,13 @@
 
 ---
 
-🔭 **untis-go** — native Go desktop client for WebUntis · [Website](https://benzjeremy.github.io/untis-go/) · [Wiki](https://benzjeremy.github.io/untis-go/wiki/) · [GitHub](https://github.com/benzjeremy/untis-go)  
-🎮 **binchrii** — official web hub for Twitch streamer binchrii · [Website](https://benzjeremy.github.io/binchrii/) · [GitHub](https://github.com/benzjeremy/binchrii)  
-📺 **itsbenzo-tv** — official Chaos Control Center for Twitch streamer ItsBenzo_TV · [Website](https://benzjeremy.github.io/itsbenzo-tv/) · [GitHub](https://github.com/benzjeremy/itsbenzo-tv)
+🔭 **untis-go** *(Main Project)* — native Go desktop client for WebUntis · [Website](https://benzjeremy.github.io/untis-go/) · [Wiki](https://benzjeremy.github.io/untis-go/wiki/) · [GitHub](https://github.com/benzjeremy/untis-go)  
 
-🌐 **Website:** [benzjeremy.github.io](https://benzjeremy.github.io/)  
+🌐 **Websites:**  
+- 🎮 **binchrii** — official web hub for Twitch streamer binchrii · [Website](https://benzjeremy.github.io/binchrii/) · [GitHub](https://github.com/benzjeremy/binchrii)  
+- 📺 **itsbenzo-tv** — official Chaos Control Center for Twitch streamer ItsBenzo_TV · [Website](https://benzjeremy.github.io/itsbenzo-tv/) · [GitHub](https://github.com/benzjeremy/itsbenzo-tv)  
+
+🌐 **Personal Site:** [benzjeremy.github.io](https://benzjeremy.github.io/)  
 📖 **Details & About Me:** [benzjeremy.github.io/details](https://benzjeremy.github.io/details)
 
 ---
