@@ -3,11 +3,11 @@
 17 y/o systems developer from North Rhine-Westphalia, Germany. High-velocity **VibeCoding** paired with uncompromising engineering discipline in **Go** — verified cryptography, zero Electron bloat, 100% Local-First ownership, and free software.
 
 [![Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
-![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?logo=go&logoColor=white)
-![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)
-![Status: Pre-Release](https://img.shields.io/badge/Status-Pre--Release%20%2F%20WIP-orange.svg)
-![Security](https://img.shields.io/badge/Security-Zero--Dummy--Standard-10b981)
-![Architecture](https://img.shields.io/badge/Architecture-Zero--Electron-orange)
+[![Go Version](https://img.shields.io/badge/Go-1.22%2B-00ADD8?logo=go&logoColor=white)](https://go.dev/)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
+[![Status: Pre-Release](https://img.shields.io/badge/Status-Pre--Release%20%2F%20WIP-orange.svg)](https://github.com/benzjeremy)
+[![Security: Zero-Dummy](https://img.shields.io/badge/Security-Zero--Dummy--Standard-10b981.svg)](https://github.com/benzjeremy)
+[![Architecture: Zero-Electron](https://img.shields.io/badge/Architecture-Zero--Electron-orange.svg)](https://github.com/benzjeremy)
 
 > [!IMPORTANT]
 > ### 🚧 Pre-Release / Active Development Notice
