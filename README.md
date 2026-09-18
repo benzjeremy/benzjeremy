@@ -14,24 +14,21 @@
 >
 > 🌐 **New Official Homepage:** [https://pi5.darter-basking.ts.net/](https://pi5.darter-basking.ts.net/)  
 > 📦 **Self-Hosted Codebase (Gitea):** [https://pi5.darter-basking.ts.net/gitea/](https://pi5.darter-basking.ts.net/gitea/)  
-> 🏪 **Central AppStore (BenzStore):** [https://pi5.darter-basking.ts.net/benzstore/](https://pi5.darter-basking.ts.net/benzstore/)  
+> 💻 **PC & Go Desktop Downloads:** [https://pi5.darter-basking.ts.net/downloads/](https://pi5.darter-basking.ts.net/downloads/)  
+> 📱 **Android F-Droid Repository:** [https://pi5.darter-basking.ts.net/myfdroid/](https://pi5.darter-basking.ts.net/myfdroid/)  
 > 📋 **Live Projects & Status Directory:** [https://pi5.darter-basking.ts.net/status](https://pi5.darter-basking.ts.net/status)  
 >
 > *Existing GitHub repositories have been archived for archival reference. All new commits and active codebases live exclusively on our Gitea instance.*
 
 ---
 
-### 🏪 Always Up-to-Date: BenzStore & App Catalog
+### 🚀 Software Distribution: PC Downloads & Android F-Droid
 
-All current builds, changelogs, and release assets are centralized in **[BenzStore](https://pi5.darter-basking.ts.net/benzstore/)** — the unified, privacy-first open-source AppStore for Android and PC:
-
-👉 **[Launch BenzStore Live Catalog & Downloads →](https://pi5.darter-basking.ts.net/benzstore/)**
-
-* 📦 **Always Current:** Live JSON feed containing every software project, updated automatically with each build.
-* 🔒 **Zero-Dummy Security:** Byte-level SHA-256 checksum verification before installation.
-* 🎯 **True Version-Picker:** Download the latest build or select any historical release with full changelog.
-* 💻 **Multi-Platform:** Native Android APKs, standalone Linux ELF binaries (WebKitGTK), and Windows executables.
-* 📱 **F-Droid Integration:** Also available via the official [myfdroid](https://pi5.darter-basking.ts.net/myfdroid/) repository.
+* 💻 **For PC & Desktop Users (Go Binaries):** Direct, verified native binaries for Linux (amd64 `.tar.gz`) and Windows (amd64 `.zip`) are hosted directly on our self-hosted Gitea releases:  
+  👉 **[Browse PC & Go Downloads →](https://pi5.darter-basking.ts.net/downloads/)**
+* 📱 **For Android Users (myfdroid):** Our official, cryptographically signed F-Droid repository serves native Android apps (including **learn** and **Wetter**) with automated updates, zero telemetry, and full offline compliance:  
+  👉 **[Add myfdroid to F-Droid / Droid-ify →](https://pi5.darter-basking.ts.net/myfdroid/)**
+* 🔒 **Zero-Dummy Security:** Byte-level SHA-256 checksum verification and RSA-4096 repository signing across all distribution channels.
 
 ---
 
@@ -69,6 +66,6 @@ Web & Showcase      : Astro 4, Vanilla JS, Semantic HTML5, CSS3 Custom Tokens
 
 ---
 
-🌐 **Homepage:** [https://pi5.darter-basking.ts.net/](https://pi5.darter-basking.ts.net/) · **Git:** [https://pi5.darter-basking.ts.net/gitea/](https://pi5.darter-basking.ts.net/gitea/) · **AppStore:** [https://pi5.darter-basking.ts.net/benzstore/](https://pi5.darter-basking.ts.net/benzstore/)
+🌐 **Homepage:** [https://pi5.darter-basking.ts.net/](https://pi5.darter-basking.ts.net/) · **Git:** [https://pi5.darter-basking.ts.net/gitea/](https://pi5.darter-basking.ts.net/gitea/) · **PC Downloads:** [https://pi5.darter-basking.ts.net/downloads/](https://pi5.darter-basking.ts.net/downloads/) · **F-Droid:** [https://pi5.darter-basking.ts.net/myfdroid/](https://pi5.darter-basking.ts.net/myfdroid/)
 
 <sub>📬 Contact: `benzjeremy@pm.me` · J.A.R.V.I.S.: `jarvis.ai.benzjeremy@gmail.com`</sub>
