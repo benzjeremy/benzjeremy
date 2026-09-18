@@ -5,44 +5,45 @@
 [![Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 [![Go Version](https://img.shields.io/badge/Go-1.22%2B-00ADD8?logo=go&logoColor=white)](https://go.dev/)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
-[![Status: Pre-Release](https://img.shields.io/badge/Status-Pre--Release%20%2F%20WIP-orange.svg)](https://github.com/benzjeremy)
-[![Security: Zero-Dummy](https://img.shields.io/badge/Security-Zero--Dummy--Standard-10b981.svg)](https://github.com/benzjeremy)
-[![Architecture: Zero-Electron](https://img.shields.io/badge/Architecture-Zero--Electron-orange.svg)](https://github.com/benzjeremy)
+[![Status: Migrated to Gitea](https://img.shields.io/badge/Codebase-Migrated%20to%20Gitea-2563eb.svg)](https://pi5.darter-basking.ts.net/gitea/)
+[![Security: Zero-Dummy](https://img.shields.io/badge/Security-Zero--Dummy--Standard-10b981.svg)](https://pi5.darter-basking.ts.net/about)
 
 > [!IMPORTANT]
-> ### 🚧 Pre-Release / Active Development Notice
-> All software projects across this ecosystem are **not yet finished** and remain under active development. All current releases, tags, packages, and binaries are **Pre-Releases** (Work in Progress), even if not originally announced as such. Features, APIs, and tools are continually being refined.
+> ### 🚨 Codebase & Infrastructure Migration: Moved to Self-Hosted Gitea
+> All active software development, source repositories, pull requests, issues, and continuous releases have officially migrated from GitHub to our independent, self-hosted infrastructure on Raspberry Pi 5:
+>
+> 🌐 **New Official Homepage:** [https://pi5.darter-basking.ts.net/](https://pi5.darter-basking.ts.net/)  
+> 📦 **Self-Hosted Codebase (Gitea):** [https://pi5.darter-basking.ts.net/gitea/](https://pi5.darter-basking.ts.net/gitea/)  
+> 🏪 **Central AppStore (BenzStore):** [https://pi5.darter-basking.ts.net/benzstore/](https://pi5.darter-basking.ts.net/benzstore/)  
+> 📋 **Live Projects & Status Directory:** [https://pi5.darter-basking.ts.net/status](https://pi5.darter-basking.ts.net/status)  
+>
+> *Existing GitHub repositories have been archived for archival reference. All new commits and active codebases live exclusively on our Gitea instance.*
 
 ---
 
 ### 🏪 Always Up-to-Date: BenzStore & App Catalog
 
-Instead of tracking releases and version numbers manually across dozens of individual repositories, all current builds, changelogs, and release assets are centralized in **[BenzStore](https://benzjeremy.github.io/benzstore/)** — the unified, privacy-first open-source AppStore for Android and PC:
+All current builds, changelogs, and release assets are centralized in **[BenzStore](https://pi5.darter-basking.ts.net/benzstore/)** — the unified, privacy-first open-source AppStore for Android and PC:
 
-👉 **[Launch BenzStore Live Catalog & Downloads →](https://benzjeremy.github.io/benzstore/)**
+👉 **[Launch BenzStore Live Catalog & Downloads →](https://pi5.darter-basking.ts.net/benzstore/)**
 
 * 📦 **Always Current:** Live JSON feed containing every software project, updated automatically with each build.
 * 🔒 **Zero-Dummy Security:** Byte-level SHA-256 checksum verification before installation.
 * 🎯 **True Version-Picker:** Download the latest build or select any historical release with full changelog.
-* 💻 **Multi-Platform:** Native Android APKs, standalone Linux ELF binaries (WebKitGTK), and Windows executables (App-Mode).
-* 📱 **F-Droid Integration:** Also available via the official [myfdroid](https://benzjeremy.github.io/myfdroid/) repository.
-
-```bash
-# Quick install the BenzStore CLI via Go:
-go install github.com/benzjeremy/benzstore@latest
-```
+* 💻 **Multi-Platform:** Native Android APKs, standalone Linux ELF binaries (WebKitGTK), and Windows executables.
+* 📱 **F-Droid Integration:** Also available via the official [myfdroid](https://pi5.darter-basking.ts.net/myfdroid/) repository.
 
 ---
 
 ### 🚀 Flagship Projects (3x Featured in Awesome-Go)
 
-While all apps and tools can be explored directly in the **[BenzStore Catalog](https://benzjeremy.github.io/benzstore/)**, these three Go projects are officially recognized and listed in [Awesome-Go](https://github.com/avelino/awesome-go):
+All source trees are hosted on our self-hosted Gitea platform:
 
-| Project | Description | Showcase & Source |
+| Project | Description | Source & Showcase |
 | :--- | :--- | :--- |
-| 🔭 **[untis-go](https://github.com/benzjeremy/untis-go)** | Native Go WebUntis desktop client. Zero Electron, WebKitGTK shell, SQLite cache-first, M365 sync, AES-256-GCM vault & 60 FPS timetable matrix. | [Awesome-Go](https://github.com/avelino/awesome-go#other-software) · [Website](https://benzjeremy.github.io/untis-go/) · [GitHub](https://github.com/benzjeremy/untis-go) |
-| ⚡ **[docklite](https://github.com/benzjeremy/docklite)** | Radically ultra-lightweight Docker manager in Go & Astro (~12 MB RAM). Direct `/var/run/docker.sock` API, live SSE telemetry & single binary. | [Awesome-Go](https://github.com/avelino/awesome-go#devops-tools) · [Website](https://benzjeremy.github.io/docklite/) · [GitHub](https://github.com/benzjeremy/docklite) |
-| 🌌 **[spotify-screensaver](https://github.com/benzjeremy/spotify-screensaver)** | Elegant desktop screensaver with crisp OLED clock, MPRIS D-Bus Spotify metadata, 60 FPS canvas visualizer, ad handling & AES-256-GCM vault. | [Awesome-Go](https://github.com/avelino/awesome-go#other-software) · [Website](https://benzjeremy.github.io/spotify-screensaver/) · [GitHub](https://github.com/benzjeremy/spotify-screensaver) |
+| 🔭 **untis-go** | Native Go WebUntis desktop client. Zero Electron, WebKitGTK shell, SQLite cache-first, M365 sync, AES-256-GCM vault & 60 FPS timetable matrix. | [Gitea Source](https://pi5.darter-basking.ts.net/gitea/untis-go/untis-go) · [Showcase](https://pi5.darter-basking.ts.net/untis-go/) · [Awesome-Go](https://github.com/avelino/awesome-go#other-software) |
+| ⚡ **docklite** | Radically ultra-lightweight Docker manager in Go & Astro (~12 MB RAM). Direct `/var/run/docker.sock` API, live SSE telemetry & single binary. | [Gitea Source](https://pi5.darter-basking.ts.net/gitea/docklite/docklite) · [Showcase](https://pi5.darter-basking.ts.net/docklite/) · [Awesome-Go](https://github.com/avelino/awesome-go#devops-tools) |
+| 🌌 **spotify-screensaver** | Elegant desktop screensaver with crisp OLED clock, MPRIS D-Bus Spotify metadata, 60 FPS canvas visualizer, ad handling & AES-256-GCM vault. | [Gitea Source](https://pi5.darter-basking.ts.net/gitea/spotify-screensaver/spotify-screensaver) · [Showcase](https://pi5.darter-basking.ts.net/spotify-screensaver/) · [Awesome-Go](https://github.com/avelino/awesome-go#other-software) |
 
 ---
 
@@ -58,15 +59,16 @@ While all apps and tools can be explored directly in the **[BenzStore Catalog](h
 ### 🛠️ Core Tech Stack & Tooling
 
 ```
-Systems & Backend   : Go (Golang) 1.22+, CGO, Docker Engine API, SQLite, UNIX Domain Sockets, Win32 Named Pipes
-Desktop Native      : WebKitGTK, GTK3 (Wayland/X11 with DMABUF fix), HTML5 Canvas Hardware Visualizers
-Mobile Native       : Android SDK / Java 17, Material Components, App Widgets, F-Droid Repository Standard
-Security & Crypto   : AES-256-GCM, PBKDF2 (100k+), OAuth2 PKCE, Anti-CSRF, DNS-Rebinding Protection
-Web & Showcase      : Astro, go:embed Single-Binary Distribution, Semantic HTML5, CSS3 Custom Properties
+Systems & Backend   : Go (Golang) 1.22+, CGO, Docker Engine API, SQLite, UNIX Domain Sockets
+Desktop Native      : WebKitGTK, GTK3 (Wayland/X11), HTML5 Canvas Hardware Visualizers
+Mobile Native       : Android SDK / Kotlin Jetpack Compose, Material Components, F-Droid Standard
+Self-Hosted Git     : Gitea on Raspberry Pi 5 (ARM64)
+Security & Crypto   : AES-256-GCM, PBKDF2 (100k+), OAuth2 PKCE, Anti-CSRF
+Web & Showcase      : Astro 4, Vanilla JS, Semantic HTML5, CSS3 Custom Tokens
 ```
 
 ---
 
-🌐 **Central Portfolio & Hub:** [benzjeremy.github.io](https://benzjeremy.github.io/) · **AppStore:** [benzjeremy.github.io/benzstore/](https://benzjeremy.github.io/benzstore/) · **Status:** [benzjeremy.github.io/status/](https://benzjeremy.github.io/status/)
+🌐 **Homepage:** [https://pi5.darter-basking.ts.net/](https://pi5.darter-basking.ts.net/) · **Git:** [https://pi5.darter-basking.ts.net/gitea/](https://pi5.darter-basking.ts.net/gitea/) · **AppStore:** [https://pi5.darter-basking.ts.net/benzstore/](https://pi5.darter-basking.ts.net/benzstore/)
 
-<sub>📬 Contact: `benzjeremy@pm.me` · Please open a GitHub Issue in the respective project before emailing · Subject format: <code>[GITHUB] [PROJECT] [#ID]</code></sub>
+<sub>📬 Contact: `benzjeremy@pm.me` · J.A.R.V.I.S.: `jarvis.ai.benzjeremy@gmail.com`</sub>
