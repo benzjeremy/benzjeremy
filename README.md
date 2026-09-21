@@ -22,6 +22,7 @@ Meine aktive Entwicklung und alle Software-Verteilungen liegen auf meiner eigene
 * 💻 **PC Desktop Downloads (Go Binaries):** [https://pi5.darter-basking.ts.net/downloads/](https://pi5.darter-basking.ts.net/downloads/)
 * 📱 **Android F-Droid Repository:** [https://pi5.darter-basking.ts.net/myfdroid/](https://pi5.darter-basking.ts.net/myfdroid/)
 * 📂 **Alle Projekte im Katalog:** [https://pi5.darter-basking.ts.net/myprojekt/](https://pi5.darter-basking.ts.net/myprojekt/)
+* ⚠️ **Self-Hosted**: Die Plattform läuft auf eigener Hardware. Gelegentliche Wartungsfenster oder temporäre Downtimes sind Teil des autarken Setups – danke für dein Verständnis!
 
 ---
 
