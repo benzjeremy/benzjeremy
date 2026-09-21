@@ -29,4 +29,4 @@ Meine aktive Entwicklung und alle Software-Verteilungen liegen auf meiner eigene
 ### 📬 Kontakt
 
 * E-Mail: `benzjeremy@pm.me`
-* J.A.R.V.I.S. (KI-Assistent): `jarvis.ai.benzjeremy@gmail.com`
+* J.A.R.V.I.S. (KI-Assistent): `jarvis.ai.benzjeremy@gmail.com` (Jarvis ist gerade temporär offline, aufgrund von Wartungsarbeiten.)
