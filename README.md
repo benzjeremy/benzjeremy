@@ -1,28 +1,26 @@
-### Hey, ich bin Jeremy. 👋
+### Hi, I’m Jeremy. 👋
 
-Software-Entwickler aus Nordrhein-Westfalen. Ich baue offene, schlanke und datensouveräne Werkzeuge für Desktop, Android und das Web.
+I’m a software developer from North Rhine-Westphalia, Germany. I build open, lightweight tools for desktop, Android, and the web.
 
----
+### What I care about
 
-### 💡 Wofür ich stehe
+- **Free software and control over your data:** open source, no unsolicited tracking, and no vendor lock-in.
+- **Small, responsive applications:** Go, SQLite, and native desktop interfaces where they fit the project.
+- **Security that fits the application:** encryption, input validation, and protected local interfaces, with requirements documented in each project.
+- **My own web infrastructure:** websites, documentation, and my F-Droid repository run on my Raspberry Pi 5. Source code and PC releases are hosted on GitHub.
 
-* **Freie Software & Datensouveränität:** 100% quelloffen unter anerkannten Lizenzen (GPL-3.0). Keine Telemetrie, kein Tracking, kein Vendor-Lock-in.
-* **Radikal schlank & nativ:** Performance durch **Go**, SQLite und native WebKit-Shells statt schwerfälliger 300-MB-Electron-Container. Blitzschneller Start und minimaler RAM-Bedarf.
-* **Echte Sicherheit:** Standardmäßig echte Kryptografie (AES-256-GCM, PBKDF2 ≥ 100.000 Runden, CSRF-Schutz, strikte Isolation).
-* **Unabhängige Infrastruktur:** Mein Quellcode, Releases und Software-Verteilung laufen auf eigener Server-Hardware.
+My software is under active development. Check each project’s documentation and release notes before using it.
 
----
+### Explore my projects
 
-### 🌐 Wo du meine Projekte findest
+- 🌐 [Website](https://benzjeremy.darter-basking.ts.net/)
+- 📂 [Project catalogue](https://benzjeremy.darter-basking.ts.net/myproject/)
+- 💻 [Desktop downloads](https://benzjeremy.darter-basking.ts.net/downloads/)
+- 📱 [Android / myfdroid](https://myfdroid.darter-basking.ts.net/) · [F-Droid repository](https://myfdroid.darter-basking.ts.net/repo/)
+- 📚 Wikis: [Untis-Go](https://untis-go.darter-basking.ts.net/wiki/), [Docklite](https://docklite.darter-basking.ts.net/wiki/), [Spotify Screensaver](https://spotify.darter-basking.ts.net/wiki/), [Wetter](https://wetter.darter-basking.ts.net/wiki/)
 
-* 🌐 **Offizielle Web-Plattform:** [https://pi5.darter-basking.ts.net/](https://pi5.darter-basking.ts.net/)
-* 💻 **PC Desktop Downloads:** [https://pi5.darter-basking.ts.net/downloads/](https://pi5.darter-basking.ts.net/downloads/)
-* 📱 **Android F-Droid Repository:** [https://pi5.darter-basking.ts.net/myfdroid/](https://pi5.darter-basking.ts.net/myfdroid/)
-* 📂 **Alle Projekte im Katalog:** [https://pi5.darter-basking.ts.net/myprojekt/](https://pi5.darter-basking.ts.net/myprojekt/)
-* ⚠️ **Self-Hosted:** Die Plattform läuft auf eigener Hardware. Gelegentliche Wartungsfenster sind Teil des autarken Setups.
+The websites run on my own hardware, so occasional maintenance windows are possible.
 
----
+### Contact
 
-### 📬 Kontakt
-
-* E-Mail: `benzjeremy@pm.me`
+Email: `benzjeremy@pm.me`
