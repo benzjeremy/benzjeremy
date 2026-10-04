@@ -19,7 +19,7 @@ My software is under active development. Check each project’s documentation an
 - 📱 [Android / myfdroid](https://myfdroid.benzjeremy.pp.ua/) · [F-Droid repository](https://myfdroid.benzjeremy.pp.ua/repo/)
 - 📚 Wikis: [Untis-Go](https://untis-go.benzjeremy.pp.ua/wiki/), [Docklite](https://docklite.benzjeremy.pp.ua/wiki/), [Spotify Screensaver](https://spotify-screensaver.benzjeremy.pp.ua/wiki/), [Wetter](https://wetter.benzjeremy.pp.ua/wiki/)
 
-The websites run on my own hardware, so occasional maintenance windows are possible.
+Websites and downloads are hosted globally on Cloudflare Pages to ensure high availability and prevent local outages.
 
 ### Contact
 
